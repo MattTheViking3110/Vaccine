@@ -30,6 +30,9 @@ namespace Vaccine
 
             Console.WriteLine("");
             Console.WriteLine("Thank you for considering vaccination");
+
+
+
             Console.WriteLine("");
             Console.WriteLine("Your Info:");
             Console.WriteLine("ID:" + ID);
