@@ -38,6 +38,7 @@ namespace Vaccine
             Console.WriteLine("Gender:" + gender);
             Console.WriteLine("Date of Registration" + DOR);
             Console.WriteLine("Province:" + Province);
+
         }
     }
 }
