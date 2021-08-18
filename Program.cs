@@ -28,7 +28,7 @@ namespace Vaccine
             Console.Write("Your Province:");
             String Province = Console.ReadLine();
 
-            Console.WriteLine("");
+            Console.WriteLine("-------");
             Console.WriteLine("Thank you for considering vaccination");
             Console.WriteLine("");
             Console.WriteLine("Your Info:");
