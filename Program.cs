@@ -8,7 +8,7 @@ namespace Vaccine
         {
             Console.WriteLine("Welcome to the vaccine registration.");
             Console.WriteLine("Please fill in your information:");
-            Console.WriteLine("------------------------------------------------");
+            Console.WriteLine("@------------------------------------------------@");
 
             Console.Write("Your ID :");
             String ID = Console.ReadLine();
@@ -28,7 +28,7 @@ namespace Vaccine
             Console.Write("Your Province:");
             String Province = Console.ReadLine();
 
-            Console.WriteLine("------------------------------------------------");
+            Console.WriteLine("@------------------------------------------------@");
             Console.WriteLine("Thank you for considering vaccination");
             Console.WriteLine("------------------------------------------------");
             Console.WriteLine("Your Info:");
